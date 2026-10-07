@@ -1,0 +1,6 @@
+data_raw/
+cache/
+cache_debug/
+results/
+results_debug/
+*.asv
